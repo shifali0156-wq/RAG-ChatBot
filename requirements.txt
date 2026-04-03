@@ -1,0 +1,13 @@
+langchain==0.2.14
+langchain-core==0.2.32
+langchain-community==0.2.12
+langchain-text-splitters==0.2.2
+langchain-huggingface
+langchain-unstructured
+langchain-chroma
+gradio
+python-pptx
+docx2txt
+unstructured
+langchain_google_genai
+minimax
